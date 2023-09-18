@@ -1,0 +1,162 @@
+a {
+  /* text-decoration: none !important; */
+  /* color: inherit !important; */
+}
+
+.main-title{
+  font-family: "Manrope";
+  text-align: center;
+  font-size: 48px;
+  margin: auto;
+  line-height: 48px;
+  font-weight: 400;
+  text-transform: capitalize;
+}
+
+.sub-title{
+  font-family: "Manrope";
+  margin: auto;
+  font-size: 24px;
+  line-height: 24px;
+  font-weight: 400;
+  text-align: center;
+  color: #4D5254;
+  text-transform: capitalize;
+}
+
+.step-font{
+  font-family: "Manrope";
+  padding: 0px 20px;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  line-height: 22px;
+  margin: auto;
+}
+
+.mt-30{
+  margin-top: 30px;
+}
+
+.mt-35{
+  margin-top: 35px;
+}
+
+.mt-10{
+  margin-top: 10px;
+}
+
+.content-body-title{
+  font-family: "Manrope";
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 44.8px;
+  color: #000000;
+  text-transform: capitalize;
+}
+
+.span-letter{
+  color: #2C7EF8;
+  font-weight: 600;
+}
+
+.des-title{
+  display: flex;
+  justify-content: space-around;
+}
+
+.des-star{
+  padding-left: 24px;
+}
+.clarifion{
+  font-family: "Manrope";
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  color: #000000;
+}
+.clarifion-right{
+  font-family: "Manrope";
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 21.66px;
+  color: #969696;
+}
+
+.fixed-cost{
+  font-size: 22px;
+  color: #2C7EF8;
+}
+
+.line-through{
+  text-decoration: line-through;
+}
+.list-item{
+  font-family: "Manrope";
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.list-item-emphasiz{
+  font-weight: 700;
+}
+
+.percent-letter{
+  font-family: "Manrope";
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22.4px;
+  color: '#000000';
+  padding-left: 24px;
+  margin-top: 15px;
+}
+
+.shipping{
+  display: flex;
+  /* justify-content: space-around; */
+}
+
+.shipping-letter{
+  font-family: "Manrope";
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16.8px;
+  color: #4D5254;
+  text-transform: capitalize;
+  padding: 4px 10px !important;
+}
+
+.warning-letter{
+  font-family: "Manrope";
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 24.59px;
+  color: #F82C2C;
+  margin: auto;
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 20px;
+}
+
+.certification-letter{
+  font-family: "Manrope";
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22.4px;
+}
+
+.mb-20{
+  margin-bottom: 20px;
+}
+
+.comment-header{
+  display: flex;
+}
+
+
+
+@media (min-width: 1200px) {
+  .thing-header {
+    display: none;   
+  }
+}
